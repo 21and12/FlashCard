@@ -1,23 +1,23 @@
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'O que e ser um programador?',
+    'O programador é uma das profissões que mais crescem no mundo e conta com ótimas remunerações. Esse profissional cria aplicativos, programas, sistemas, sites e até games utilizando diversas linguagens de programação'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual a capital do China?',
+    'A capital da China é Pequin'
 )
 
 criaCartao(
     'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'O que é um codigo?',
+    'O código de programação serve para criar programas de computador, que podem realizar uma ampla variedade de tarefas'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'como fala peixe bola gato em ingles?',
+    'cat fish ball'
 )
